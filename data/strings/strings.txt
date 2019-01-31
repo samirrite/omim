@@ -37267,3 +37267,6 @@
   [html_error_upload_title_try_again]
     comment = FIXME. Your guide couldn't be uploaded
     en = [html_error_upload_title_try_again]
+  [access_rules_author_only]
+    en = Editing online
+    ru = Редактируется онлайн
